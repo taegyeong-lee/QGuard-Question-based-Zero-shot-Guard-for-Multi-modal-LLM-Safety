@@ -1,5 +1,5 @@
 ## QGuard:Question-based Zero-shot Guard for Multi-modal LLM Safety (ACL 2025, The 9th Workshop on Online Abuse and Harms)
-**Taegyeong Lee**, Jeonghwa Yoo, Hyoungseo Cho, Soo Yong Kim, Yunho Maeng  
+**Taegyeong Lee**,[Jeonghwa Yoo](https://github.com/jeongHwarr), Hyoungseo Cho, Soo Yong Kim, Yunho Maeng  
 [![arXiv](https://img.shields.io/badge/arXiv-2212.11565-b31b1b.svg)](https://arxiv.org/abs/2506.12299)  
 HuggingFace : https://huggingface.co/taegyeonglee/qguard  
 
